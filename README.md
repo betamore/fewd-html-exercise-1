@@ -12,4 +12,4 @@
   * Push your changes
   * Open a pull request
 
-For questions or comments, reach out via Slack or [open an issue on GitHub](https://github.com/betamore/fewd-html-exercise-1/issues).
+For questions or comments, reach out via Slack
